@@ -1,2 +1,2 @@
-# Projetos
+# Projetos de Python
 Alguns projetos...
